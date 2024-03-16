@@ -1,0 +1,2 @@
+# Wave Energy Converter 
+The purpose of the project is to estimate approx power generation of WECs from different bouys configurations. The data used in this project contained bouy positions and their output at different coasts of Australia obtained by running an Evolutionary Algorithm to estimate the best bouy placement. The main focus of this work was to do feature extraction in such a way that inexpensive ML models can be used for estimation of power output.
